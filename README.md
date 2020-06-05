@@ -1,7 +1,9 @@
 # etcDAO 🌱
 Moloch V2 on Ethereum Classic
 
-[DAO Deployment](https://blockscout.com/etc/mainnet/address/0x7998eb3d2236e5e41016ac057943cf01b08fc078/transactions)
+[DAO](https://blockscout.com/etc/mainnet/address/0x7998eb3d2236e5e41016ac057943cf01b08fc078/transactions)
+
+[dApp](https://oneclickdapp.com/limbo-elite/) 🔨
 
 ## Members
 | Name | Ethereum Address | Shares | 
