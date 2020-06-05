@@ -1,5 +1,5 @@
 # etcDAO 🌱
-Moloch V2 on Ethereum Classic
+> Moloch V2 on Ethereum Classic
 
 Using wrapped ether on `classic` chain code as initial approved contribution token, [wETC](https://blockscout.com/etc/mainnet/address/0x512b7c2ca3dd370d84f7cbc363185fab9e4b7faf/contracts): [dApp](https://oneclickdapp.com/mayor-castro/) 🍬
 
