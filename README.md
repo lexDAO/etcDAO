@@ -6,7 +6,7 @@ Moloch V2 on Ethereum Classic
 ## Members
 | Name | Ethereum Address | Shares | 
 |----------|:-------------:| :-------------:|
-| [Alex Tsankov](https://twitter.com/antsankov) | [`0x7998eb3d2236e5e41016ac057943CF01b08fc078`](https://blockscout.com/etc/mainnet/address/0x7998eb3d2236e5e41016ac057943cf01b08fc078) | 1 |
+| [Alex Tsankov](https://twitter.com/antsankov) | [`0xB460ce2C10d959251792D72b7E2B3EC684F013f1`](https://blockscout.com/etc/mainnet/address/0xB460ce2C10d959251792D72b7E2B3EC684F013f1) | 1 |
 
 ## Proposals
 
