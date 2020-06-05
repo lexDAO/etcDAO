@@ -1,9 +1,11 @@
 # etcDAO 🌱
 Moloch V2 on Ethereum Classic
 
-[DAO](https://blockscout.com/etc/mainnet/address/0x7998eb3d2236e5e41016ac057943cf01b08fc078/transactions)
+Using wrapped ether on `classic` chain code as initial approved contribution token, [wETC](https://blockscout.com/etc/mainnet/address/0x512b7c2ca3dd370d84f7cbc363185fab9e4b7faf/contracts): [dApp](https://oneclickdapp.com/mayor-castro/) 🍬
 
-[dApp](https://oneclickdapp.com/limbo-elite/) 🔨
+[DAO](https://blockscout.com/etc/mainnet/address/0x7998eb3d2236e5e41016ac057943cf01b08fc078/transactions) 👺
+
+[dApp](https://oneclickdapp.com/limbo-elite/) 📜
 
 ## Members
 | Name | Ethereum Address | Shares | 
@@ -12,7 +14,7 @@ Moloch V2 on Ethereum Classic
 
 ## Proposals
 
-- `Ross Campbell requests 10 etcDAO Shares/Loot` with contribution of 100 [WETC](https://blockscout.com/etc/mainnet/address/0x512b7c2ca3dd370d84f7cbc363185fab9e4b7faf/contracts) // [TX](https://blockscout.com/etc/mainnet/address/0x7998eb3d2236e5e41016ac057943cf01b08fc078/tokens/0x512b7c2ca3dd370d84f7cbc363185fab9e4b7faf/token_transfers)
+- `Ross Campbell requests 10 etcDAO Shares/Loot` with contribution of 100 [wETC](https://blockscout.com/etc/mainnet/address/0x512b7c2ca3dd370d84f7cbc363185fab9e4b7faf/contracts) // [TX](https://blockscout.com/etc/mainnet/address/0x7998eb3d2236e5e41016ac057943cf01b08fc078/tokens/0x512b7c2ca3dd370d84f7cbc363185fab9e4b7faf/token_transfers)
 
 ## Summoner (Factory) 🔥 👹 🔥 
 
