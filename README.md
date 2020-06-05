@@ -12,7 +12,7 @@ Moloch V2 on Ethereum Classic
 
 ## Proposals
 
-- `Ross Campbell requests 10 etcDAO Shares/Loot` with contribution of 100 [WETC](0x512b7c2ca3dd370d84f7cbc363185fab9e4b7faf) // [TX](https://blockscout.com/etc/mainnet/address/0x7998eb3d2236e5e41016ac057943cf01b08fc078/tokens/0x512b7c2ca3dd370d84f7cbc363185fab9e4b7faf/token_transfers)
+- `Ross Campbell requests 10 etcDAO Shares/Loot` with contribution of 100 [WETC](https://blockscout.com/etc/mainnet/address/0x512b7c2ca3dd370d84f7cbc363185fab9e4b7faf/contracts) // [TX](https://blockscout.com/etc/mainnet/address/0x7998eb3d2236e5e41016ac057943cf01b08fc078/tokens/0x512b7c2ca3dd370d84f7cbc363185fab9e4b7faf/token_transfers)
 
 ## Summoner (Factory) 🔥 👹 🔥 
 
